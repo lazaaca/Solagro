@@ -1,0 +1,9 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch dev
+# Changes to be committed:
+#	modified:   .idea/misc.xml
+#	new file:   app/src/main/res/layout/activity_map.xml
+#
+
